@@ -78,7 +78,7 @@ h1:hover{
     color: var(--color-second);
     line-height: 150%;
 }
-section{
+.autor{
     display: flex;
     align-items: center;
     gap: 0.75rem;
